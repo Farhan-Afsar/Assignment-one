@@ -1,6 +1,6 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
 body {
   font-family: "Lato", sans-serif;
@@ -8,7 +8,7 @@ body {
 .section-one {
   width: 1920px;
   height: 850px;
-  background: #FDEEF1;
+  background: #fdeef1;
 }
 .main-title {
   color: #272727;
@@ -40,12 +40,40 @@ body {
   margin-top: 50px;
   margin-right: 240px;
 }
-.section-one{
-    display: flex;
-    justify-content: space-between;
+.section-one {
+  display: flex;
+  justify-content: space-between;
 }
-.section-one-one{
-    margin-top: 197px;
-    margin-left: 240px;
-    margin-bottom: 147px;
+.section-one-one {
+  margin-top: 197px;
+  margin-left: 240px;
+  margin-bottom: 147px;
+}
+.btn-two {
+  margin-left: 603px;
+}
+.section-two {
+  width: 1922px;
+  height: 620px;
+  display: flex;
+  justify-content: space-between;
+}
+.image-two {
+  margin-top: 100px;
+  margin-right: 429px;
+  margin-bottom: 100px;
+  width: 318px;
+  height: 420px;
+}
+.title {
+  margin-top: 230px;
+  margin-left: 423px;
+  font-size: 40px;
+}
+.two {
+  margin-left: 395px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  text-align: center;
+  width: 594px;
 }

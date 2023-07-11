@@ -77,3 +77,32 @@ body {
   text-align: center;
   width: 594px;
 }
+.social {
+  width: 1920px;
+  height: 4867px;
+}
+.instagram {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 128px;
+  margin-bottom: 24px;
+}
+.social-description {
+  width: 594px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+  margin-left: 663px;
+}
+.image-section{
+  margin-left: 240px;
+  margin-right: 240px;
+  display: flex;
+  gap: 24px;
+  margin-bottom: 128px;
+}
+

@@ -77,10 +77,6 @@ body {
   text-align: center;
   width: 594px;
 }
-.social {
-  width: 1920px;
-  height: 4867px;
-}
 .instagram {
   color: #272727;
   text-align: center;
@@ -98,11 +94,48 @@ body {
   margin-bottom: 48px;
   margin-left: 663px;
 }
-.image-section{
+.image-section {
   margin-left: 240px;
   margin-right: 240px;
   display: flex;
   gap: 24px;
   margin-bottom: 128px;
 }
-
+.deals {
+  width: 1440px;
+  height: 449px;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-bottom: 128px;
+  background: url("./Asset/Rectangle\ 9.png");
+}
+.deal-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  padding-left: 533px;
+  margin-bottom: 16px; 
+  padding-top: 122px;
+}
+.deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+  margin-left: 604px;
+}
+.form {
+  width: 700px;
+  height: 64px;
+  margin-left: 287px;
+  margin-bottom: 121px;
+  border-radius: 8px;
+  border: none;
+}
+input::placeholder {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 23px;
+  padding-left: 22px;
+}
